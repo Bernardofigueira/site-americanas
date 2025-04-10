@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+header{
+    background-color: #d92424;
+    height: 90px;
+    padding: 20px 20px 5px 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#cabecalho{
+    font-size: 50px;
+    color: #fff;
+}
+#logo{
+    width: 250px;
+}
+.video{
+    padding-top: 100px;
+   display: flex;
+    justify-content: space-around;
+    
+    
+}
+.entrarcadastrar{
+    color: #fff;
+    font-size: 32px;
+}
+.Produtos h1{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: red; 
+    padding-top: 50px;
+}
+#itens{
+    display: flex;
+    justify-content: space-around  ;
+}
+.Bis{
+    margin-top: 50px;
+    width: 200px;
+}
+.Kitkat{
+    width:200px ;
+}
+.mapa{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    color: red;
+    
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
