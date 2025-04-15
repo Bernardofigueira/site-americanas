@@ -4,6 +4,9 @@
     border: 0;
      
 }
+body{
+    font-size: 18px;
+}
 header{
     background-color: #d92424;
     color: #fff;
@@ -142,4 +145,7 @@ main{
 }
 h3 {
     margin-top: 16px;
+}
+.btn-check{
+position: relative !important;
 }
